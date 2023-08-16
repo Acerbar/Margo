@@ -367,7 +367,7 @@ main{
 .service__info{
 	position: relative;
 	z-index: 30;
-	font-size: calc(12px + 3 * ((100vw - 1053px) / 476));
+	font-size: calc(16px + 2 * ((100vw - 375px) / (1880 - 375)));
 	font-weight: 600;
 	font-family: "Roboto", sans-serif;
 	color: #fff;
@@ -376,7 +376,7 @@ main{
 .service__text{
 	position: relative;
 	z-index: 30;
-	font-size: calc(12px + 3 * ((100vw - 1053px) / 476));;
+	font-size: calc(16px + 2 * ((100vw - 375px) / (1880 - 375)));
 	font-family: "Roboto", sans-serif;
 	color: #fff;
 	margin: 2em 0;
